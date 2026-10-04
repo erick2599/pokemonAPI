@@ -30,7 +30,7 @@ export default async function HomePage() {
           letterSpacing: '2px',
           textShadow: '2px 2px 0px #232323'
         }}>
-          Pokédex Prefetch
+          Pokedex: 150 Pokémons
         </h1>
       </header>
 
